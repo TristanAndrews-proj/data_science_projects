@@ -1,0 +1,135 @@
+---
+title: "Analyzing Forest Fire Data"
+author: "Tristan Andrews"
+date: "2/12/2021"
+output: html_document
+---
+
+#Analysis Intro.
+Forest fires can create ecological problems. The can endanger human lives and property. Understanding when and how they occur can be extremely important in managing them. The data we have is associated with a research paper written by researchers Paulo Cortez, and Anibal Morais which predicts the occurrences of forest fires in Portugal. Here is the link to the research paper: http://www3.dsi.uminho.pt/pcortez/fires.pdf
+
+```{r}
+#Reading forestfire csv file as a tibble.
+forest_fires <- read_csv("forestfires.csv")
+
+#Displaying sample of dataset.
+head(forest_fires)
+
+
+#Getting dimensions of dataset.
+dim(forest_fires)
+```
+Dataset dimensions.
+- Dataset has 517 rows and 13 columns.
+- Columns are:
+  - `X`: X-axis spatial coordinate within the Montesinho park map: 1 to 9.
+  - `Y`: Y-axis spatial coordinate within the Montesinho park map: 2 to 9.
+  - `month`: Month of the year: 'jan' to 'dec'.
+  - `day`: Day of the week: 'mon' to 'sun'.
+  -`FFMC`: Fine Fuel Moisture Code index from the FWI system: 18.7 to 96.20.
+  -`DMC`: Duff Moisture Code index from the FWI system: 1.1 to 291.3.
+  -`DC`: Drought Code index from the FWI system: 7.9 to 860.6.
+  -`ISI`: Initial Spread Index from the FWI system: 0.0 to 56.10.
+  -`temp`: Temperature in Celsius degrees: 2.2 to 33.30.
+  -`RH`: Relative humidity in percentage: 15.0 to 100.
+  -`wind`: Wind speed in km/h: 0.40 to 9.40.
+  -`rain`: Outside rain in mm/m2 : 0.0 to 6.4.
+  -`area`: The burned area of the forest (in ha): 0.00 to 1090.84.
+- FWI stands for `Fire Weather Index`, a method used by scientists to quantify risk factors for forest fires.
+
+```{r}
+#Looking at the unique values in the month column.
+forest_fires %>% pull(month) %>% unique()
+```
+```{r}
+#Looking at all the unique values in the day column
+forest_fires %>% pull(day) %>% unique()
+```
+
+The `month` and `day` variables are unordered. We'll need to create categorical variables out of them and re-order each of these variables in the correct order.
+```{r}
+#Correct month order.
+month_order <- c("jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec")
+
+#Correct day of the week order.
+dow_order <- c("sun", "mon", "tue","wed","thu","fri", "sat")
+
+#Re-ordering the forest_fires dataset by the correct orders of the month and day columns above.
+forest_fires <- forest_fires %>% mutate(
+  month = factor(month, levels = month_order),
+  day = factor(day, levels = dow_order)
+)
+
+```
+# Creating seperate tibbles for the data grouped by month and day .
+To understand forest fires, it's helpful to understand when the fires are most likely to occur. In California for example, there's a notion that fire season is between May and October because of the summer heat.
+
+The `month` and `day` columns allow us to ask:
+- Which months do forest fires happen the most?
+- Which days of the week do forest fires happen the most?
+
+# Bar Chart for number of fires by day and month.
+
+```{r}
+#Creating a table that shows the number of forest fires grouped by month.
+n_fires_by_month <- forest_fires %>% group_by(month) %>% summarize(n_fires = n())
+
+n_fires_by_month
+```
+#Creating visualizations for the tibbles created.
+```{r}
+#Creating a histogram of the n_fires_by_month tibble.
+n_fires_by_month %>% ggplot(aes(x = month, y = n_fires, fill = month)) + geom_col() + labs(
+  title = "Number of Forest Fires per Month.",
+  x = "Days of the Week",
+  y = "Number of Fires"
+) + theme(panel.background = element_rect(fill = "white"))
+```
+```{r}
+#Creating a density plot for the n_fires_by_month tibble.
+n_fires_by_dow%>% ggplot(aes(x = day, y = n_fires, fill = day)) + geom_col() + labs(
+  title = "Number of Forest Fires per Month.",
+  x = "Days of the Week",
+  y = "Number of Fires"
+) +theme(panel.background = element_rect(fill = "white"))
+```
+As you can see, most fires occur on the months, August and September. And during the week, most fires occur on Fridays, and on the weekends. Based on this visualization, it's likely that the majority of fires that occur on August and September occurred on the weekends as the visualizations suggest. We should get down to the bottom of this and find out what's causing these fires. Looking at the factors during August and November and then comparing it to other months would be a good place to start.
+
+
+```{r}
+forest_fires_long <- forest_fires %>% pivot_longer(
+    cols = c(FFMC, DMC, DC, ISI, temp, RH, wind, rain),
+    names_to = "column",
+    values_to = "value"
+  )
+
+#Visuals of indexes by month.
+forest_fires_long %>% ggplot(aes(x = month, y = value)) + geom_boxplot() + facet_wrap(vars(column), scale = "free_y") + labs(title = "Relationship between other variables and Month", x = "Month", y = 'Index Value') +theme(panel.background = element_rect(fill = "white"))
+
+#Visuals of indexes in the months of August and September.
+forest_fires_long %>% filter(month == 'aug' | month == 'sep') %>% 
+  ggplot(aes(x = month, y = value)) + geom_boxplot() + facet_wrap(vars(column), scale = "free_y") + labs(title = "Relationship between other variables and Months of August and September", x = "Month", y = 'Index Value') +theme(panel.background = element_rect(fill = "white"))
+
+#Visuals of the indexes by days of the week.
+forest_fires_long %>% ggplot(aes(x = day, y = value)) + geom_boxplot() + facet_wrap(vars(column), scale = "free_y") + labs(title = "Relationship between other variables and Days of the Week", x = "Days of the Week", y = 'Index Value') +theme(panel.background = element_rect(fill = "white"))
+```
+Analysis Notes
+- August and September had the highest number of forest fires. Here are things to bare in mind:
+  - August and September had the highest Drought codes which represents drying deep into the soil. The higher the drought code, the more likely a fire would happen.
+  - August and September also saw the highest Duff Moisture codes that year. This code represents the fuel moisture of decomposed organic material underneath litter.
+  - Fine Fuel consumption in August and September were the 2 highest indexes recorded that year.
+  - August and September also recorded some of the highest temperatures that year. 
+  
+Humidity is something that can slow the spread of wildfires and based on that it's expected that places that are less humid would have more area burned out. 
+```{r}
+forest_fires_long %>% ggplot(aes(x = value, y= area)) + facet_wrap(vars(column), scale = "free_x") + geom_point() + labs(title = "Relationship between other variables and areas burned.", x = "Column Value", y = 'Area burned(hectare)') + theme(panel.background = element_rect(fill = "white"))
+```
+
+
+#Getting rid of outliers in the dataset by filtering the Area column.
+```{r}
+forest_fires_long %>% filter(area != 0 & area < 200) %>% ggplot(aes(x = value, y = area)) + facet_wrap(vars(column), scale = "free_x") + geom_point() + labs(title = "Relationship between other variables and areas burned (area < 300).", x = "Column Value", y = 'Area burned(hectare)') + theme(panel.background = element_rect(fill = "white"))
+```
+Areas that are closer to zero have the highest index values. It's assumed that those areas are more likely to have fires than others.
+
+Will continue to dig deeper on this study using Python.
