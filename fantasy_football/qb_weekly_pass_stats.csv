@@ -1,0 +1,525 @@
+,Player Name,Team,Pass Attempts,Completions,Pass Yds,Pass Touchdowns,Pass INTs,QBR,Week,Date,Opponent
+0,Deshaun Watson,Houston Texans,32,20,253,1,1,84.5,1,2020-09-10,Kansas City Chiefs
+1,Patrick Mahomes,Kansas City Chiefs,32,24,211,3,0,123.3,1,2020-09-10,Houston Texans
+2,Russell Wilson,Seattle Seahawks,35,31,322,4,0,143.1,1,2020-09-13,Atlanta Falcons
+3,Matt Ryan,Atlanta Falcons,54,37,450,2,1,98.5,1,2020-09-13,Seattle Seahawks
+4,Baker Mayfield,Cleveland Browns,39,21,189,1,1,65.0,1,2020-09-13,Baltimore Ravens
+5,Lamar Jackson,Baltimore Ravens,25,20,275,3,0,152.1,1,2020-09-13,Cleveland Browns
+6,Sam Darnold,New York Jets,35,21,215,1,1,75.3,1,2020-09-13,Buffalo Bills
+7,Josh Allen,Buffalo Bills,46,33,312,2,0,104.6,1,2020-09-13,New York Jets
+8,Derek Carr,Las Vegas Raiders,30,22,239,1,0,107.5,1,2020-09-13,Carolina Panthers
+9,Teddy Bridgewater,Carolina Panthers,34,22,269,1,0,98.8,1,2020-09-13,Las Vegas Raiders
+10,Mitchell Trubisky,Chicago Bears,36,20,242,3,0,104.2,1,2020-09-13,Detroit Lions
+11,Matthew Stafford,Detroit Lions,42,24,297,1,1,77.2,1,2020-09-13,Chicago Bears
+12,Philip Rivers,Indianapolis Colts,46,36,363,1,2,88.7,1,2020-09-13,Jacksonville Jaguars
+13,Gardner Minshew,Jacksonville Jaguars,20,19,173,3,0,142.3,1,2020-09-13,Indianapolis Colts
+14,Aaron Rodgers,Green Bay Packers,44,32,364,4,0,127.5,1,2020-09-13,Minnesota Vikings
+15,Kirk Cousins,Minnesota Vikings,25,19,259,2,1,118.6,1,2020-09-13,Green Bay Packers
+16,Ryan Fitzpatrick,Miami Dolphins,30,20,191,0,3,44.6,1,2020-09-13,New England Patriots
+17,Cam Newton,New England Patriots,19,15,155,0,0,100.7,1,2020-09-13,Miami Dolphins
+18,Carson Wentz,Philadelphia Eagles,42,24,270,2,2,72.5,1,2020-09-13,Washington Football Team
+19,Dwayne Haskins,Washington Football Team,31,17,178,1,0,82.5,1,2020-09-13,Philadelphia Eagles
+20,Tyrod Taylor,Los Angeles Chargers,30,16,208,0,0,75.4,1,2020-09-13,Cincinnati Bengals
+21,Joe Burrow,Cincinnati Bengals,36,23,193,0,1,66.1,1,2020-09-13,Los Angeles Chargers
+22,Tom Brady,Tampa Bay Buccaneers,36,23,239,2,2,78.4,1,2020-09-13,New Orleans Saints
+23,Drew Brees,New Orleans Saints,30,18,160,2,0,96.5,1,2020-09-13,Tampa Bay Buccaneers
+24,Kyler Murray,Arizona Cardinals,40,26,230,1,1,78.1,1,2020-09-13,San Francisco 49ers
+25,Jimmy Garoppolo,San Francisco 49ers,33,19,259,2,0,103.0,1,2020-09-13,Arizona Cardinals
+26,Dak Prescott,Dallas Cowboys,39,25,266,1,0,92.5,1,2020-09-13,Los Angeles Rams
+27,Jared Goff,Los Angeles Rams,31,20,275,0,1,79.4,1,2020-09-13,Dallas Cowboys
+28,Ben Roethlisberger,Pittsburgh Steelers,32,21,229,3,0,117.8,1,2020-09-14,New York Giants
+29,Daniel Jones,New York Giants,41,26,279,2,2,79.2,1,2020-09-14,Pittsburgh Steelers
+30,Ryan Tannehill,Tennessee Titans,43,29,249,2,0,97.9,1,2020-09-14,Denver Broncos
+31,Drew Lock,Denver Broncos,33,22,216,1,0,95.0,1,2020-09-14,Tennessee Titans
+32,Joe Burrow,Cincinnati Bengals,61,37,316,3,0,90.6,2,2020-09-17,Cleveland Browns
+33,Baker Mayfield,Cleveland Browns,23,16,219,2,1,110.6,2,2020-09-17,Cincinnati Bengals
+34,Daniel Jones,New York Giants,40,25,241,0,1,68.9,2,2020-09-20,Chicago Bears
+35,Mitchell Trubisky,Chicago Bears,28,18,190,2,2,78.0,2,2020-09-20,New York Giants
+36,Matt Ryan,Atlanta Falcons,36,24,273,4,0,126.3,2,2020-09-20,Dallas Cowboys
+37,Dak Prescott,Dallas Cowboys,47,34,450,1,0,109.4,2,2020-09-20,Atlanta Falcons
+38,Matthew Stafford,Detroit Lions,33,20,244,2,1,91.0,2,2020-09-20,Green Bay Packers
+39,Aaron Rodgers,Green Bay Packers,30,18,240,2,0,107.6,2,2020-09-20,Detroit Lions
+40,Kirk Cousins,Minnesota Vikings,26,11,113,0,3,15.9,2,2020-09-20,Indianapolis Colts
+41,Philip Rivers,Indianapolis Colts,25,19,214,1,1,97.8,2,2020-09-20,Minnesota Vikings
+42,Josh Allen,Buffalo Bills,35,24,415,4,0,146.7,2,2020-09-20,Miami Dolphins
+43,Ryan Fitzpatrick,Miami Dolphins,47,31,328,2,0,100.3,2,2020-09-20,Buffalo Bills
+44,Jimmy Garoppolo,San Francisco 49ers,16,14,131,2,0,140.4,2,2020-09-20,New York Jets
+45,Sam Darnold,New York Jets,32,21,179,1,0,90.5,2,2020-09-20,San Francisco 49ers
+46,Jared Goff,Los Angeles Rams,27,20,267,3,0,142.1,2,2020-09-20,Philadelphia Eagles
+47,Carson Wentz,Philadelphia Eagles,43,26,242,0,2,56.5,2,2020-09-20,Los Angeles Rams
+48,Jeff Driskel,Denver Broncos,34,18,256,2,1,84.9,2,2020-09-20,Pittsburgh Steelers
+49,Ben Roethlisberger,Pittsburgh Steelers,41,29,311,2,1,98.7,2,2020-09-20,Denver Broncos
+50,Teddy Bridgewater,Carolina Panthers,42,33,367,0,2,83.2,2,2020-09-20,Tampa Bay Buccaneers
+51,Tom Brady,Tampa Bay Buccaneers,35,23,217,1,1,80.3,2,2020-09-20,Carolina Panthers
+52,Gardner Minshew,Jacksonville Jaguars,45,30,339,3,2,92.7,2,2020-09-20,Tennessee Titans
+53,Ryan Tannehill,Tennessee Titans,24,18,239,4,0,145.7,2,2020-09-20,Jacksonville Jaguars
+54,Dwayne Haskins,Washington Football Team,33,19,223,1,0,88.3,2,2020-09-20,Arizona Cardinals
+55,Kyler Murray,Arizona Cardinals,38,26,286,1,1,88.3,2,2020-09-20,Washington Football Team
+56,Lamar Jackson,Baltimore Ravens,24,18,204,1,0,113.9,2,2020-09-20,Houston Texans
+57,Deshaun Watson,Houston Texans,36,25,275,1,1,89.5,2,2020-09-20,Baltimore Ravens
+58,Patrick Mahomes,Kansas City Chiefs,47,27,302,2,0,90.9,2,2020-09-20,Los Angeles Chargers
+59,Justin Herbert,Los Angeles Chargers,33,22,311,1,1,94.4,2,2020-09-20,Kansas City Chiefs
+60,Cam Newton,New England Patriots,44,30,397,1,1,94.6,2,2020-09-20,Seattle Seahawks
+61,Russell Wilson,Seattle Seahawks,28,21,288,5,1,132.1,2,2020-09-20,New England Patriots
+62,Drew Brees,New Orleans Saints,38,26,312,1,1,91.1,2,2020-09-21,Las Vegas Raiders
+63,Derek Carr,Las Vegas Raiders,38,28,284,3,0,120.9,2,2020-09-21,New Orleans Saints
+64,Ryan Fitzpatrick,Miami Dolphins,20,18,160,2,0,133.3,3,2020-09-24,Jacksonville Jaguars
+65,Gardner Minshew,Jacksonville Jaguars,42,30,275,0,1,79.0,3,2020-09-24,Miami Dolphins
+66,Nick Foles,Chicago Bears,29,16,188,3,1,95.2,3,2020-09-27,Atlanta Falcons
+67,Matt Ryan,Atlanta Falcons,38,19,238,1,1,67.7,3,2020-09-27,Chicago Bears
+68,Jared Goff,Los Angeles Rams,32,23,321,2,1,111.6,3,2020-09-27,Buffalo Bills
+69,Josh Allen,Buffalo Bills,33,24,311,4,1,128.9,3,2020-09-27,Los Angeles Rams
+70,Dwayne Haskins,Washington Football Team,37,21,224,2,3,58.8,3,2020-09-27,Cleveland Browns
+71,Baker Mayfield,Cleveland Browns,23,16,156,2,0,117.3,3,2020-09-27,Washington Football Team
+72,Ryan Tannehill,Tennessee Titans,37,23,321,0,1,78.8,3,2020-09-27,Minnesota Vikings
+73,Kirk Cousins,Minnesota Vikings,27,16,251,3,2,96.4,3,2020-09-27,Tennessee Titans
+74,Derek Carr,Las Vegas Raiders,32,24,261,2,0,119.4,3,2020-09-27,New England Patriots
+75,Cam Newton,New England Patriots,28,17,162,1,1,73.8,3,2020-09-27,Las Vegas Raiders
+76,Nick Mullens,San Francisco 49ers,36,25,343,1,0,108.9,3,2020-09-27,New York Giants
+77,Daniel Jones,New York Giants,32,17,179,0,1,56.6,3,2020-09-27,San Francisco 49ers
+78,Joe Burrow,Cincinnati Bengals,44,31,312,2,0,105.5,3,2020-09-27,Philadelphia Eagles
+79,Carson Wentz,Philadelphia Eagles,47,29,225,1,2,62.8,3,2020-09-27,Cincinnati Bengals
+80,Deshaun Watson,Houston Texans,27,19,264,2,1,110.7,3,2020-09-27,Pittsburgh Steelers
+81,Ben Roethlisberger,Pittsburgh Steelers,36,23,237,2,0,101.3,3,2020-09-27,Houston Texans
+82,Sam Darnold,New York Jets,29,17,168,1,3,47.0,3,2020-09-27,Indianapolis Colts
+83,Philip Rivers,Indianapolis Colts,21,17,217,1,0,125.6,3,2020-09-27,New York Jets
+84,Teddy Bridgewater,Carolina Panthers,28,22,235,1,0,113.5,3,2020-09-27,Los Angeles Chargers
+85,Justin Herbert,Los Angeles Chargers,49,35,330,1,1,88.0,3,2020-09-27,Carolina Panthers
+86,Matthew Stafford,Detroit Lions,31,22,270,2,0,119.0,3,2020-09-27,Arizona Cardinals
+87,Kyler Murray,Arizona Cardinals,35,23,270,2,3,72.3,3,2020-09-27,Detroit Lions
+88,Tom Brady,Tampa Bay Buccaneers,38,25,297,3,0,115.8,3,2020-09-27,Denver Broncos
+89,Jeff Driskel,Denver Broncos,30,17,176,1,1,71.0,3,2020-09-27,Tampa Bay Buccaneers
+90,Dak Prescott,Dallas Cowboys,57,37,472,3,2,93.6,3,2020-09-27,Seattle Seahawks
+91,Russell Wilson,Seattle Seahawks,40,27,315,5,0,130.7,3,2020-09-27,Dallas Cowboys
+92,Aaron Rodgers,Green Bay Packers,32,21,283,3,0,124.9,3,2020-09-27,New Orleans Saints
+93,Drew Brees,New Orleans Saints,36,29,288,3,0,127.8,3,2020-09-27,Green Bay Packers
+94,Patrick Mahomes,Kansas City Chiefs,42,31,385,4,0,133.5,3,2020-09-28,Baltimore Ravens
+95,Lamar Jackson,Baltimore Ravens,28,15,97,1,0,73.1,3,2020-09-28,Kansas City Chiefs
+96,Brett Rypien,Denver Broncos,31,19,242,2,3,67.6,4,2020-10-01,New York Jets
+97,Sam Darnold,New York Jets,42,23,230,0,0,70.5,4,2020-10-01,Denver Broncos
+98,Kyler Murray,Arizona Cardinals,31,24,133,3,0,116.7,4,2020-10-04,Carolina Panthers
+99,Teddy Bridgewater,Carolina Panthers,37,26,276,2,1,98.5,4,2020-10-04,Arizona Cardinals
+100,Gardner Minshew,Jacksonville Jaguars,40,27,351,2,1,101.1,4,2020-10-04,Cincinnati Bengals
+101,Joe Burrow,Cincinnati Bengals,36,25,300,1,1,92.4,4,2020-10-04,Jacksonville Jaguars
+102,Baker Mayfield,Cleveland Browns,30,19,165,2,0,100.0,4,2020-10-04,Dallas Cowboys
+103,Dak Prescott,Dallas Cowboys,58,41,502,4,1,112.9,4,2020-10-04,Cleveland Browns
+104,Drew Brees,New Orleans Saints,25,19,246,2,1,116.4,4,2020-10-04,Detroit Lions
+105,Matthew Stafford,Detroit Lions,31,17,206,3,1,94.3,4,2020-10-04,New Orleans Saints
+106,Kirk Cousins,Minnesota Vikings,22,16,260,1,0,127.1,4,2020-10-04,Houston Texans
+107,Deshaun Watson,Houston Texans,33,20,300,2,0,110.7,4,2020-10-04,Minnesota Vikings
+108,Russell Wilson,Seattle Seahawks,34,24,360,2,1,112.4,4,2020-10-04,Miami Dolphins
+109,Ryan Fitzpatrick,Miami Dolphins,45,29,315,0,2,66.4,4,2020-10-04,Seattle Seahawks
+110,Justin Herbert,Los Angeles Chargers,25,20,290,3,1,137.9,4,2020-10-04,Tampa Bay Buccaneers
+111,Tom Brady,Tampa Bay Buccaneers,46,30,369,5,1,117.0,4,2020-10-04,Los Angeles Chargers
+112,Lamar Jackson,Baltimore Ravens,21,14,193,2,1,107.8,4,2020-10-04,Washington Football Team
+113,Dwayne Haskins,Washington Football Team,45,32,314,0,0,90.4,4,2020-10-04,Baltimore Ravens
+114,Daniel Jones,New York Giants,36,23,190,0,1,65.7,4,2020-10-04,Los Angeles Rams
+115,Jared Goff,Los Angeles Rams,32,25,200,1,0,103.1,4,2020-10-04,New York Giants
+116,Philip Rivers,Indianapolis Colts,29,16,190,1,0,86.9,4,2020-10-04,Chicago Bears
+117,Nick Foles,Chicago Bears,42,26,249,1,1,76.4,4,2020-10-04,Indianapolis Colts
+118,Josh Allen,Buffalo Bills,34,24,288,2,0,115.8,4,2020-10-04,Las Vegas Raiders
+119,Derek Carr,Las Vegas Raiders,44,32,311,2,0,107.3,4,2020-10-04,Buffalo Bills
+120,Carson Wentz,Philadelphia Eagles,28,18,193,1,1,81.4,4,2020-10-04,San Francisco 49ers
+121,Nick Mullens,San Francisco 49ers,26,18,200,1,2,72.6,4,2020-10-04,Philadelphia Eagles
+122,Brian Hoyer,New England Patriots,24,15,130,0,1,59.4,4,2020-10-04,Kansas City Chiefs
+123,Patrick Mahomes,Kansas City Chiefs,29,19,236,2,0,113.6,4,2020-10-04,New England Patriots
+124,Matt Ryan,Atlanta Falcons,39,28,285,0,0,92.4,4,2020-10-05,Green Bay Packers
+125,Aaron Rodgers,Green Bay Packers,33,27,327,4,0,147.5,4,2020-10-05,Atlanta Falcons
+126,Tom Brady,Tampa Bay Buccaneers,41,25,253,1,0,86.7,5,2020-10-08,Chicago Bears
+127,Nick Foles,Chicago Bears,42,30,243,1,1,83.7,5,2020-10-08,Tampa Bay Buccaneers
+128,Teddy Bridgewater,Carolina Panthers,36,27,313,2,0,119.3,5,2020-10-11,Atlanta Falcons
+129,Matt Ryan,Atlanta Falcons,37,21,226,0,1,63.6,5,2020-10-11,Carolina Panthers
+130,Joe Burrow,Cincinnati Bengals,30,19,183,0,1,66.4,5,2020-10-11,Baltimore Ravens
+131,Lamar Jackson,Baltimore Ravens,37,19,180,2,1,71.9,5,2020-10-11,Cincinnati Bengals
+132,Gardner Minshew,Jacksonville Jaguars,49,31,301,2,0,94.0,5,2020-10-11,Houston Texans
+133,Deshaun Watson,Houston Texans,35,25,359,3,2,109.1,5,2020-10-11,Jacksonville Jaguars
+134,Derek Carr,Las Vegas Raiders,31,22,347,3,1,126.7,5,2020-10-11,Kansas City Chiefs
+135,Patrick Mahomes,Kansas City Chiefs,43,22,340,2,1,83.5,5,2020-10-11,Las Vegas Raiders
+136,Kyler Murray,Arizona Cardinals,37,27,380,1,1,103.4,5,2020-10-11,New York Jets
+137,Joe Flacco,New York Jets,33,18,195,1,0,82.3,5,2020-10-11,Arizona Cardinals
+138,Carson Wentz,Philadelphia Eagles,35,20,258,2,2,75.7,5,2020-10-11,Pittsburgh Steelers
+139,Ben Roethlisberger,Pittsburgh Steelers,34,27,239,3,0,125.4,5,2020-10-11,Philadelphia Eagles
+140,Jared Goff,Los Angeles Rams,30,21,309,2,1,111.7,5,2020-10-11,Washington Football Team
+141,Alex Smith,Washington Football Team,17,9,37,0,0,58.7,5,2020-10-11,Los Angeles Rams
+142,Ryan Fitzpatrick,Miami Dolphins,28,22,350,3,0,154.5,5,2020-10-11,San Francisco 49ers
+143,C.J. Beathard,San Francisco 49ers,18,9,94,1,0,84.0,5,2020-10-11,Miami Dolphins
+144,Philip Rivers,Indianapolis Colts,33,21,243,0,2,60.5,5,2020-10-11,Cleveland Browns
+145,Baker Mayfield,Cleveland Browns,37,21,247,2,2,72.7,5,2020-10-11,Indianapolis Colts
+146,Daniel Jones,New York Giants,33,20,222,0,0,80.6,5,2020-10-11,Dallas Cowboys
+147,Dak Prescott,Dallas Cowboys,21,14,166,0,1,70.7,5,2020-10-11,New York Giants
+148,Kirk Cousins,Minnesota Vikings,39,27,249,2,1,92.8,5,2020-10-11,Seattle Seahawks
+149,Russell Wilson,Seattle Seahawks,32,20,217,3,1,100.7,5,2020-10-11,Minnesota Vikings
+150,Justin Herbert,Los Angeles Chargers,34,20,264,4,0,122.7,5,2020-10-12,New Orleans Saints
+151,Drew Brees,New Orleans Saints,47,33,325,1,1,87.6,5,2020-10-12,Los Angeles Chargers
+152,Josh Allen,Buffalo Bills,41,26,263,2,2,77.6,5,2020-10-11,Tennessee Titans
+153,Ryan Tannehill,Tennessee Titans,28,21,195,3,0,129.3,5,2020-10-11,Buffalo Bills
+154,Drew Lock,Denver Broncos,24,10,189,0,2,34.9,5,2020-10-11,New England Patriots
+155,Cam Newton,New England Patriots,25,17,157,0,2,51.6,5,2020-10-11,Denver Broncos
+156,Nick Foles,Chicago Bears,39,23,198,1,1,70.2,6,2020-10-18,Carolina Panthers
+157,Teddy Bridgewater,Carolina Panthers,29,16,216,0,2,50.4,6,2020-10-18,Chicago Bears
+158,Joe Burrow,Cincinnati Bengals,39,25,313,0,1,78.3,6,2020-10-18,Indianapolis Colts
+159,Philip Rivers,Indianapolis Colts,44,29,371,3,1,105.4,6,2020-10-18,Cincinnati Bengals
+160,Matthew Stafford,Detroit Lions,31,19,223,1,1,80.4,6,2020-10-18,Jacksonville Jaguars
+161,Gardner Minshew,Jacksonville Jaguars,44,25,243,1,1,70.5,6,2020-10-18,Detroit Lions
+162,Matt Ryan,Atlanta Falcons,40,30,371,4,0,136.6,6,2020-10-18,Minnesota Vikings
+163,Kirk Cousins,Minnesota Vikings,36,24,343,3,3,90.4,6,2020-10-18,Atlanta Falcons
+164,Kyle Allen,Washington Football Team,42,31,280,2,1,97.3,6,2020-10-18,New York Giants
+165,Daniel Jones,New York Giants,19,12,112,1,1,74.9,6,2020-10-18,Washington Football Team
+166,Lamar Jackson,Baltimore Ravens,27,16,186,1,0,92.5,6,2020-10-18,Philadelphia Eagles
+167,Carson Wentz,Philadelphia Eagles,40,21,213,2,0,84.7,6,2020-10-18,Baltimore Ravens
+168,Baker Mayfield,Cleveland Browns,18,10,119,1,2,54.9,6,2020-10-18,Pittsburgh Steelers
+169,Ben Roethlisberger,Pittsburgh Steelers,22,14,162,1,0,100.9,6,2020-10-18,Cleveland Browns
+170,Deshaun Watson,Houston Texans,37,28,335,4,0,138.9,6,2020-10-18,Tennessee Titans
+171,Ryan Tannehill,Tennessee Titans,41,30,366,4,1,122.6,6,2020-10-18,Houston Texans
+172,Joe Flacco,New York Jets,44,21,186,0,1,50.0,10,2020-11-15,Miami Dolphins
+173,Ryan Fitzpatrick,Miami Dolphins,27,18,191,3,2,93.3,10,2020-11-15,New York Jets
+174,Aaron Rodgers,Green Bay Packers,35,16,160,0,2,35.4,6,2020-10-18,Tampa Bay Buccaneers
+175,Tom Brady,Tampa Bay Buccaneers,27,17,166,2,0,104.9,6,2020-10-18,Green Bay Packers
+176,Jared Goff,Los Angeles Rams,38,19,198,2,1,72.0,6,2020-10-18,San Francisco 49ers
+177,Jimmy Garoppolo,San Francisco 49ers,33,23,268,3,0,124.3,6,2020-10-18,Los Angeles Rams
+178,Patrick Mahomes,Kansas City Chiefs,26,21,225,2,0,128.4,6,2020-10-15,Buffalo Bills
+179,Josh Allen,Buffalo Bills,27,14,122,2,1,73.4,6,2020-10-15,Kansas City Chiefs
+180,Kyler Murray,Arizona Cardinals,24,9,188,2,0,93.8,6,2020-10-19,Dallas Cowboys
+181,Andy Dalton,Dallas Cowboys,54,34,266,1,2,65.8,6,2020-10-19,Arizona Cardinals
+182,Daniel Jones,New York Giants,30,20,187,2,1,91.9,7,2020-10-22,Philadelphia Eagles
+183,Carson Wentz,Philadelphia Eagles,43,25,359,2,1,91.1,7,2020-10-22,New York Giants
+184,Ben Roethlisberger,Pittsburgh Steelers,49,32,268,2,3,67.4,4,2020-10-04,Tennessee Titans
+185,Ryan Tannehill,Tennessee Titans,30,18,220,2,0,104.9,4,2020-10-04,Pittsburgh Steelers
+186,Matthew Stafford,Detroit Lions,36,25,340,1,0,108.6,7,2020-10-25,Atlanta Falcons
+187,Matt Ryan,Atlanta Falcons,42,31,338,1,0,105.1,7,2020-10-25,Detroit Lions
+188,Baker Mayfield,Cleveland Browns,28,22,297,5,1,135.6,7,2020-10-25,Cincinnati Bengals
+189,Joe Burrow,Cincinnati Bengals,47,35,406,3,1,112.5,7,2020-10-25,Cleveland Browns
+190,Aaron Rodgers,Green Bay Packers,34,23,283,4,0,132.4,7,2020-10-25,Houston Texans
+191,Deshaun Watson,Houston Texans,39,29,309,2,0,114.2,7,2020-10-25,Green Bay Packers
+192,Teddy Bridgewater,Carolina Panthers,28,23,254,2,0,128.3,7,2020-10-25,New Orleans Saints
+193,Drew Brees,New Orleans Saints,36,29,287,2,0,118.4,7,2020-10-25,Carolina Panthers
+194,Josh Allen,Buffalo Bills,43,30,307,0,0,90.0,7,2020-10-25,New York Jets
+195,Sam Darnold,New York Jets,23,12,120,0,2,31.1,7,2020-10-25,Buffalo Bills
+196,Andy Dalton,Dallas Cowboys,19,9,75,0,1,36.1,7,2020-10-25,Washington Football Team
+197,Kyle Allen,Washington Football Team,25,15,194,2,0,111.1,7,2020-10-25,Dallas Cowboys
+198,Tom Brady,Tampa Bay Buccaneers,45,33,369,4,0,127.0,7,2020-10-25,Las Vegas Raiders
+199,Derek Carr,Las Vegas Raiders,36,24,284,2,1,97.5,7,2020-10-25,Tampa Bay Buccaneers
+200,Patrick Mahomes,Kansas City Chiefs,23,15,200,1,0,107.2,7,2020-10-25,Denver Broncos
+201,Drew Lock,Denver Broncos,40,24,254,0,2,57.7,7,2020-10-25,Kansas City Chiefs
+202,Jimmy Garoppolo,San Francisco 49ers,25,20,277,0,2,79.5,7,2020-10-25,New England Patriots
+203,Cam Newton,New England Patriots,15,9,98,0,3,39.7,7,2020-10-25,San Francisco 49ers
+204,Gardner Minshew,Jacksonville Jaguars,27,14,173,2,0,96.7,8,2020-11-01,Los Angeles Chargers
+205,Justin Herbert,Los Angeles Chargers,43,27,347,3,0,111.3,8,2020-11-01,Jacksonville Jaguars
+206,Russell Wilson,Seattle Seahawks,50,33,388,3,3,84.4,7,2020-10-25,Arizona Cardinals
+207,Kyler Murray,Arizona Cardinals,48,34,360,3,1,104.5,7,2020-10-25,Seattle Seahawks
+208,Nick Foles,Chicago Bears,40,28,261,0,2,66.8,7,2020-10-26,Los Angeles Rams
+209,Jared Goff,Los Angeles Rams,33,23,220,2,0,108.1,7,2020-10-26,Chicago Bears
+210,Matt Ryan,Atlanta Falcons,30,21,281,0,1,85.6,8,2020-10-29,Carolina Panthers
+211,Teddy Bridgewater,Carolina Panthers,23,15,176,1,1,84.7,8,2020-10-29,Atlanta Falcons
+212,Ben Roethlisberger,Pittsburgh Steelers,32,21,182,2,0,101.3,7,2020-10-25,Baltimore Ravens
+213,Lamar Jackson,Baltimore Ravens,28,13,208,2,2,65.8,7,2020-10-25,Pittsburgh Steelers
+214,Cam Newton,New England Patriots,25,15,174,0,0,81.1,8,2020-11-01,Buffalo Bills
+215,Josh Allen,Buffalo Bills,18,11,154,0,1,65.5,8,2020-11-01,New England Patriots
+216,Ryan Tannehill,Tennessee Titans,30,18,233,2,1,92.8,8,2020-11-01,Cincinnati Bengals
+217,Joe Burrow,Cincinnati Bengals,37,26,249,2,0,106.7,8,2020-11-01,Tennessee Titans
+218,Derek Carr,Las Vegas Raiders,24,15,111,1,0,87.3,8,2020-11-01,Cleveland Browns
+219,Baker Mayfield,Cleveland Browns,25,12,122,0,0,62.4,8,2020-11-01,Las Vegas Raiders
+220,Philip Rivers,Indianapolis Colts,33,23,262,3,0,123.5,8,2020-11-01,Detroit Lions
+221,Matthew Stafford,Detroit Lions,42,24,336,3,1,96.9,8,2020-11-01,Indianapolis Colts
+222,Kirk Cousins,Minnesota Vikings,14,11,160,1,0,138.1,8,2020-11-01,Green Bay Packers
+223,Aaron Rodgers,Green Bay Packers,41,27,291,3,0,110.9,8,2020-11-01,Minnesota Vikings
+224,Sam Darnold,New York Jets,30,18,133,0,0,70.6,8,2020-11-01,Kansas City Chiefs
+225,Patrick Mahomes,Kansas City Chiefs,42,31,416,5,0,144.4,8,2020-11-01,New York Jets
+226,Jared Goff,Los Angeles Rams,61,35,355,1,2,65.9,8,2020-11-01,Miami Dolphins
+227,Tua Tagovailoa,Miami Dolphins,22,12,93,1,0,80.3,8,2020-11-01,Los Angeles Rams
+228,Justin Herbert,Los Angeles Chargers,43,29,278,3,2,89.1,11,2020-11-22,Denver Broncos
+229,Drew Lock,Denver Broncos,41,26,248,3,1,94.4,11,2020-11-22,Los Angeles Chargers
+230,Drew Brees,New Orleans Saints,41,31,280,2,0,109.8,8,2020-11-01,Chicago Bears
+231,Nick Foles,Chicago Bears,41,28,272,2,1,92.7,8,2020-11-01,New Orleans Saints
+232,Nick Mullens,San Francisco 49ers,25,18,238,2,0,128.4,8,2020-11-01,Seattle Seahawks
+233,Russell Wilson,Seattle Seahawks,37,27,261,4,0,128.3,8,2020-11-01,San Francisco 49ers
+234,Ben DiNucci,Dallas Cowboys,40,21,180,0,0,64.6,8,2020-11-01,Philadelphia Eagles
+235,Carson Wentz,Philadelphia Eagles,27,15,123,2,2,61.2,8,2020-11-01,Dallas Cowboys
+236,Tom Brady,Tampa Bay Buccaneers,40,28,279,2,0,106.1,8,2020-11-02,New York Giants
+237,Daniel Jones,New York Giants,41,25,256,2,2,74.8,8,2020-11-02,Tampa Bay Buccaneers
+238,Aaron Rodgers,Green Bay Packers,31,25,305,4,0,147.2,9,2020-11-05,San Francisco 49ers
+239,Nick Mullens,San Francisco 49ers,35,22,291,1,1,86.7,9,2020-11-05,Green Bay Packers
+240,Drew Lock,Denver Broncos,48,25,313,2,1,77.9,9,2020-11-08,Atlanta Falcons
+241,Matt Ryan,Atlanta Falcons,35,25,284,3,1,112.1,9,2020-11-08,Denver Broncos
+242,Russell Wilson,Seattle Seahawks,41,28,390,2,2,94.6,9,2020-11-08,Buffalo Bills
+243,Josh Allen,Buffalo Bills,38,31,415,3,0,138.5,9,2020-11-08,Seattle Seahawks
+244,Lamar Jackson,Baltimore Ravens,23,19,170,0,0,97.5,9,2020-11-08,Indianapolis Colts
+245,Philip Rivers,Indianapolis Colts,43,25,227,0,1,62.8,9,2020-11-08,Baltimore Ravens
+246,Deshaun Watson,Houston Texans,32,19,281,2,0,109.0,9,2020-11-08,Jacksonville Jaguars
+247,Jake Luton,Jacksonville Jaguars,38,26,304,1,1,90.2,9,2020-11-08,Houston Texans
+248,Teddy Bridgewater,Carolina Panthers,49,36,310,2,0,103.3,9,2020-11-08,Kansas City Chiefs
+249,Patrick Mahomes,Kansas City Chiefs,45,30,372,4,0,121.7,9,2020-11-08,Carolina Panthers
+250,Matthew Stafford,Detroit Lions,32,23,211,1,2,73.8,9,2020-11-08,Minnesota Vikings
+251,Kirk Cousins,Minnesota Vikings,20,13,220,3,0,141.7,9,2020-11-08,Detroit Lions
+252,Nick Foles,Chicago Bears,52,36,335,2,0,99.4,9,2020-11-08,Tennessee Titans
+253,Ryan Tannehill,Tennessee Titans,21,10,158,2,0,104.9,9,2020-11-08,Chicago Bears
+254,Daniel Jones,New York Giants,34,23,212,1,0,94.2,9,2020-11-08,Washington Football Team
+255,Alex Smith,Washington Football Team,32,24,325,1,3,78.3,9,2020-11-08,New York Giants
+256,Derek Carr,Las Vegas Raiders,23,13,165,2,0,108.1,9,2020-11-08,Los Angeles Chargers
+257,Justin Herbert,Los Angeles Chargers,42,28,326,2,0,105.9,9,2020-11-08,Las Vegas Raiders
+258,Tua Tagovailoa,Miami Dolphins,28,20,248,2,0,122.3,9,2020-11-08,Arizona Cardinals
+259,Kyler Murray,Arizona Cardinals,26,21,283,3,0,150.5,9,2020-11-08,Miami Dolphins
+260,Ben Roethlisberger,Pittsburgh Steelers,42,29,306,3,0,113.8,9,2020-11-08,Dallas Cowboys
+261,Garrett Gilbert,Dallas Cowboys,38,21,243,1,1,72.6,9,2020-11-08,Pittsburgh Steelers
+262,Drew Brees,New Orleans Saints,32,26,222,4,0,135.2,9,2020-11-08,Tampa Bay Buccaneers
+263,Tom Brady,Tampa Bay Buccaneers,38,22,209,0,3,40.4,9,2020-11-08,New Orleans Saints
+264,Cam Newton,New England Patriots,35,27,274,0,0,99.0,9,2020-11-09,New York Jets
+265,Joe Flacco,New York Jets,25,18,262,3,1,128.7,9,2020-11-09,New England Patriots
+266,Philip Rivers,Indianapolis Colts,39,29,308,1,0,105.5,10,2020-11-12,Tennessee Titans
+267,Ryan Tannehill,Tennessee Titans,27,15,147,1,0,83.4,10,2020-11-12,Indianapolis Colts
+268,Tom Brady,Tampa Bay Buccaneers,39,28,341,3,0,124.0,10,2020-11-15,Carolina Panthers
+269,Teddy Bridgewater,Carolina Panthers,24,18,136,2,1,98.6,10,2020-11-15,Tampa Bay Buccaneers
+270,Deshaun Watson,Houston Texans,30,20,163,1,0,91.4,10,2020-11-15,Cleveland Browns
+271,Baker Mayfield,Cleveland Browns,20,12,132,0,0,79.6,10,2020-11-15,Houston Texans
+272,Alex Smith,Washington Football Team,55,38,390,0,0,89.2,10,2020-11-15,Detroit Lions
+273,Matthew Stafford,Detroit Lions,33,24,276,3,0,127.8,10,2020-11-15,Washington Football Team
+274,Jake Luton,Jacksonville Jaguars,35,18,169,1,1,62.7,10,2020-11-15,Green Bay Packers
+275,Aaron Rodgers,Green Bay Packers,34,24,325,2,1,108.1,10,2020-11-15,Jacksonville Jaguars
+276,Carson Wentz,Philadelphia Eagles,37,21,208,0,0,72.8,10,2020-11-15,New York Giants
+277,Daniel Jones,New York Giants,28,21,244,0,0,100.9,10,2020-11-15,Philadelphia Eagles
+278,Justin Herbert,Los Angeles Chargers,32,20,187,2,1,86.3,7,2020-10-25,Miami Dolphins
+279,Tua Tagovailoa,Miami Dolphins,25,15,169,2,0,106.9,7,2020-10-25,Los Angeles Chargers
+280,Josh Allen,Buffalo Bills,49,32,284,2,2,77.3,10,2020-11-15,Arizona Cardinals
+281,Kyler Murray,Arizona Cardinals,32,22,245,1,1,88.7,10,2020-11-15,Buffalo Bills
+282,Drew Lock,Denver Broncos,47,23,257,1,4,37.3,10,2020-11-15,Las Vegas Raiders
+283,Derek Carr,Las Vegas Raiders,25,16,154,0,0,81.1,10,2020-11-15,Denver Broncos
+284,Joe Burrow,Cincinnati Bengals,40,21,213,1,0,76.4,10,2020-11-15,Pittsburgh Steelers
+285,Ben Roethlisberger,Pittsburgh Steelers,46,27,333,4,0,110.1,10,2020-11-15,Cincinnati Bengals
+286,Russell Wilson,Seattle Seahawks,37,22,248,0,2,57.0,10,2020-11-15,Los Angeles Rams
+287,Jared Goff,Los Angeles Rams,37,27,302,0,0,96.9,10,2020-11-15,Seattle Seahawks
+288,Nick Mullens,San Francisco 49ers,38,24,247,1,2,68.6,10,2020-11-15,New Orleans Saints
+289,Drew Brees,New Orleans Saints,13,8,76,1,0,103.4,10,2020-11-15,San Francisco 49ers
+290,Lamar Jackson,Baltimore Ravens,34,24,249,2,1,98.8,10,2020-11-15,New England Patriots
+291,Cam Newton,New England Patriots,17,13,118,1,0,114.3,10,2020-11-15,Baltimore Ravens
+292,Kirk Cousins,Minnesota Vikings,36,25,292,2,1,100.7,10,2020-11-16,Chicago Bears
+293,Nick Foles,Chicago Bears,26,15,106,0,1,51.1,10,2020-11-16,Minnesota Vikings
+294,Kyler Murray,Arizona Cardinals,42,29,269,2,0,102.2,11,2020-11-19,Seattle Seahawks
+295,Russell Wilson,Seattle Seahawks,28,23,197,2,0,119.8,11,2020-11-19,Arizona Cardinals
+296,Ryan Tannehill,Tennessee Titans,31,22,259,2,1,104.1,11,2020-11-22,Baltimore Ravens
+297,Lamar Jackson,Baltimore Ravens,29,17,186,1,1,74.8,11,2020-11-22,Tennessee Titans
+298,Matthew Stafford,Detroit Lions,33,18,178,0,0,70.0,11,2020-11-22,Carolina Panthers
+299,Phillip Walker,Carolina Panthers,34,24,258,1,2,77.8,11,2020-11-22,Detroit Lions
+300,Carson Wentz,Philadelphia Eagles,35,21,235,2,2,75.3,11,2020-11-22,Cleveland Browns
+301,Baker Mayfield,Cleveland Browns,22,12,204,0,0,86.2,11,2020-11-22,Philadelphia Eagles
+302,Cam Newton,New England Patriots,40,26,365,1,0,102.6,11,2020-11-22,Houston Texans
+303,Deshaun Watson,Houston Texans,37,28,344,2,0,121.9,11,2020-11-22,New England Patriots
+304,Ben Roethlisberger,Pittsburgh Steelers,46,32,267,2,1,89.7,11,2020-11-22,Jacksonville Jaguars
+305,Jake Luton,Jacksonville Jaguars,37,16,151,0,4,15.5,11,2020-11-22,Pittsburgh Steelers
+306,Matt Ryan,Atlanta Falcons,37,19,232,0,2,48.5,11,2020-11-22,New Orleans Saints
+307,Taysom Hill,New Orleans Saints,23,18,233,0,0,108.9,11,2020-11-22,Atlanta Falcons
+308,Joe Burrow,Cincinnati Bengals,34,22,203,1,0,90.7,11,2020-11-22,Washington Football Team
+309,Alex Smith,Washington Football Team,25,17,166,1,1,83.1,11,2020-11-22,Cincinnati Bengals
+310,Tua Tagovailoa,Miami Dolphins,20,11,83,1,0,81.9,6,2020-10-18,Denver Broncos
+311,Drew Lock,Denver Broncos,30,18,270,0,1,75.7,6,2020-10-18,Miami Dolphins
+312,Joe Flacco,New York Jets,30,15,205,2,1,80.6,6,2020-10-18,Los Angeles Chargers
+313,Justin Herbert,Los Angeles Chargers,49,37,366,3,0,116.5,6,2020-10-18,New York Jets
+314,Aaron Rodgers,Green Bay Packers,38,27,311,3,1,110.7,11,2020-11-22,Indianapolis Colts
+315,Philip Rivers,Indianapolis Colts,36,24,288,3,1,107.2,11,2020-11-22,Green Bay Packers
+316,Andy Dalton,Dallas Cowboys,32,22,203,3,1,104.0,11,2020-11-22,Minnesota Vikings
+317,Kirk Cousins,Minnesota Vikings,30,22,314,3,0,140.1,11,2020-11-22,Dallas Cowboys
+318,Patrick Mahomes,Kansas City Chiefs,45,34,348,2,1,102.8,11,2020-11-22,Las Vegas Raiders
+319,Derek Carr,Las Vegas Raiders,31,23,275,3,1,119.7,11,2020-11-22,Kansas City Chiefs
+320,Jared Goff,Los Angeles Rams,51,39,376,3,2,99.8,11,2020-11-23,Tampa Bay Buccaneers
+321,Tom Brady,Tampa Bay Buccaneers,48,26,216,2,2,62.5,11,2020-11-23,Los Angeles Rams
+322,Deshaun Watson,Houston Texans,25,17,318,4,0,150.4,12,2020-11-26,Detroit Lions
+323,Matthew Stafford,Detroit Lions,42,28,295,1,1,84.9,12,2020-11-26,Houston Texans
+324,Alex Smith,Washington Football Team,26,19,149,1,1,83.7,12,2020-11-26,Dallas Cowboys
+325,Andy Dalton,Dallas Cowboys,35,25,215,1,1,84.8,12,2020-11-26,Washington Football Team
+326,Derek Carr,Las Vegas Raiders,34,22,215,0,1,70.1,12,2020-11-29,Atlanta Falcons
+327,Matt Ryan,Atlanta Falcons,39,22,185,2,1,75.3,12,2020-11-29,Las Vegas Raiders
+328,Justin Herbert,Los Angeles Chargers,52,31,316,1,1,75.5,12,2020-11-29,Buffalo Bills
+329,Josh Allen,Buffalo Bills,24,18,157,1,1,88.4,12,2020-11-29,Los Angeles Chargers
+330,Daniel Jones,New York Giants,27,16,213,0,0,84.3,12,2020-11-29,Cincinnati Bengals
+331,Brandon Allen,Cincinnati Bengals,29,17,136,1,1,67.6,12,2020-11-29,New York Giants
+332,Ryan Tannehill,Tennessee Titans,22,13,221,1,0,108.3,12,2020-11-29,Indianapolis Colts
+333,Philip Rivers,Indianapolis Colts,42,24,295,2,1,84.9,12,2020-11-29,Tennessee Titans
+334,Baker Mayfield,Cleveland Browns,29,19,258,2,0,116.7,12,2020-11-29,Jacksonville Jaguars
+335,Mike Glennon,Jacksonville Jaguars,35,20,235,2,0,96.7,12,2020-11-29,Cleveland Browns
+336,Teddy Bridgewater,Carolina Panthers,36,19,267,1,1,74.7,12,2020-11-29,Minnesota Vikings
+337,Kirk Cousins,Minnesota Vikings,45,34,307,3,0,115.7,12,2020-11-29,Carolina Panthers
+338,Kyler Murray,Arizona Cardinals,34,23,170,0,1,67.0,12,2020-11-29,New England Patriots
+339,Cam Newton,New England Patriots,18,9,84,0,2,23.6,12,2020-11-29,Arizona Cardinals
+340,Ryan Fitzpatrick,Miami Dolphins,39,24,257,2,0,97.9,12,2020-11-29,New York Jets
+341,Sam Darnold,New York Jets,27,16,197,0,2,51.0,12,2020-11-29,Miami Dolphins
+342,Taysom Hill,New Orleans Saints,16,9,78,0,1,43.2,12,2020-11-29,Denver Broncos
+343,Kendall Hinton,Denver Broncos,9,1,13,0,2,0.0,12,2020-11-29,New Orleans Saints
+344,Nick Mullens,San Francisco 49ers,35,24,252,0,1,77.3,12,2020-11-29,Los Angeles Rams
+345,Jared Goff,Los Angeles Rams,31,19,198,0,2,52.9,12,2020-11-29,San Francisco 49ers
+346,Patrick Mahomes,Kansas City Chiefs,49,37,462,3,0,124.7,12,2020-11-29,Tampa Bay Buccaneers
+347,Tom Brady,Tampa Bay Buccaneers,41,27,345,3,2,96.1,12,2020-11-29,Kansas City Chiefs
+348,Mitchell Trubisky,Chicago Bears,46,26,242,3,2,74.7,12,2020-11-29,Green Bay Packers
+349,Aaron Rodgers,Green Bay Packers,29,21,211,4,0,132.3,12,2020-11-29,Chicago Bears
+350,Russell Wilson,Seattle Seahawks,31,22,230,1,0,102.9,12,2020-11-30,Philadelphia Eagles
+351,Carson Wentz,Philadelphia Eagles,45,25,215,2,1,73.8,12,2020-11-30,Seattle Seahawks
+352,Robert Griffin III,Baltimore Ravens,12,7,33,0,1,28.5,12,2020-11-26,Pittsburgh Steelers
+353,Ben Roethlisberger,Pittsburgh Steelers,51,36,266,1,1,81.0,12,2020-11-26,Baltimore Ravens
+354,Taysom Hill,New Orleans Saints,37,27,232,2,0,107.0,13,2020-12-06,Atlanta Falcons
+355,Matt Ryan,Atlanta Falcons,39,19,273,1,0,80.4,13,2020-12-06,New Orleans Saints
+356,Matthew Stafford,Detroit Lions,42,27,402,3,1,109.4,13,2020-12-06,Chicago Bears
+357,Mitchell Trubisky,Chicago Bears,34,26,267,1,0,108.3,13,2020-12-06,Detroit Lions
+358,Philip Rivers,Indianapolis Colts,35,27,285,2,0,119.3,13,2020-12-06,Houston Texans
+359,Deshaun Watson,Houston Texans,38,26,341,0,1,85.5,13,2020-12-06,Indianapolis Colts
+360,Brandon Allen,Cincinnati Bengals,19,11,153,1,1,79.5,13,2020-12-06,Miami Dolphins
+361,Tua Tagovailoa,Miami Dolphins,39,26,296,1,0,97.8,13,2020-12-06,Cincinnati Bengals
+362,Mike Glennon,Jacksonville Jaguars,42,28,280,1,2,73.5,13,2020-12-06,Minnesota Vikings
+363,Kirk Cousins,Minnesota Vikings,43,28,305,3,1,99.5,13,2020-12-06,Jacksonville Jaguars
+364,Derek Carr,Las Vegas Raiders,47,28,381,3,1,97.9,13,2020-12-06,New York Jets
+365,Sam Darnold,New York Jets,23,14,186,2,1,97.4,13,2020-12-06,Las Vegas Raiders
+366,Baker Mayfield,Cleveland Browns,33,25,334,4,0,147.0,13,2020-12-06,Tennessee Titans
+367,Ryan Tannehill,Tennessee Titans,45,29,389,3,1,104.8,13,2020-12-06,Cleveland Browns
+368,Jared Goff,Los Angeles Rams,47,37,351,1,0,104.9,13,2020-12-06,Arizona Cardinals
+369,Kyler Murray,Arizona Cardinals,39,21,173,3,1,80.4,13,2020-12-06,Los Angeles Rams
+370,Colt McCoy,New York Giants,22,13,105,1,1,67.4,13,2020-12-06,Seattle Seahawks
+371,Russell Wilson,Seattle Seahawks,43,27,263,1,1,78.0,13,2020-12-06,New York Giants
+372,Carson Wentz,Philadelphia Eagles,15,6,79,0,0,57.4,13,2020-12-06,Green Bay Packers
+373,Aaron Rodgers,Green Bay Packers,34,25,295,3,0,128.9,13,2020-12-06,Philadelphia Eagles
+374,Cam Newton,New England Patriots,19,12,69,1,0,87.4,13,2020-12-06,Los Angeles Chargers
+375,Justin Herbert,Los Angeles Chargers,53,26,209,0,2,43.7,13,2020-12-06,New England Patriots
+376,Drew Lock,Denver Broncos,28,15,151,2,2,63.2,13,2020-12-06,Kansas City Chiefs
+377,Patrick Mahomes,Kansas City Chiefs,40,25,318,1,0,95.6,13,2020-12-06,Denver Broncos
+378,Alex Smith,Washington Football Team,46,31,296,1,0,92.3,13,2020-12-06,Pittsburgh Steelers
+379,Ben Roethlisberger,Pittsburgh Steelers,53,33,305,2,1,82.7,13,2020-12-06,Washington Football Team
+380,Josh Allen,Buffalo Bills,40,32,375,4,0,139.1,13,2020-12-07,San Francisco 49ers
+381,Nick Mullens,San Francisco 49ers,39,26,316,3,2,95.7,13,2020-12-07,Buffalo Bills
+382,Andy Dalton,Dallas Cowboys,48,31,285,2,1,85.9,13,2020-12-03,Baltimore Ravens
+383,Lamar Jackson,Baltimore Ravens,17,12,107,2,1,101.8,13,2020-12-03,Dallas Cowboys
+384,Cam Newton,New England Patriots,16,9,119,0,1,53.9,14,2020-12-10,Los Angeles Rams
+385,Jared Goff,Los Angeles Rams,25,16,137,1,1,74.9,14,2020-12-10,New England Patriots
+386,Drew Lock,Denver Broncos,27,21,280,4,0,149.5,14,2020-12-13,Carolina Panthers
+387,Teddy Bridgewater,Carolina Panthers,40,30,283,0,0,94.1,14,2020-12-13,Denver Broncos
+388,Deshaun Watson,Houston Texans,30,21,219,1,0,101.9,14,2020-12-13,Chicago Bears
+389,Mitchell Trubisky,Chicago Bears,33,24,267,3,0,126.7,14,2020-12-13,Houston Texans
+390,Andy Dalton,Dallas Cowboys,23,16,185,2,0,122.6,14,2020-12-13,Cincinnati Bengals
+391,Brandon Allen,Cincinnati Bengals,36,27,217,1,0,99.0,14,2020-12-13,Dallas Cowboys
+392,Ryan Tannehill,Tennessee Titans,24,19,212,2,0,131.2,14,2020-12-13,Jacksonville Jaguars
+393,Gardner Minshew,Jacksonville Jaguars,31,18,178,1,0,85.1,14,2020-12-13,Tennessee Titans
+394,Patrick Mahomes,Kansas City Chiefs,34,24,393,2,3,91.9,14,2020-12-13,Miami Dolphins
+395,Tua Tagovailoa,Miami Dolphins,48,28,316,2,1,83.3,14,2020-12-13,Kansas City Chiefs
+396,Kyler Murray,Arizona Cardinals,35,24,244,1,0,97.8,14,2020-12-13,New York Giants
+397,Daniel Jones,New York Giants,21,11,127,0,0,70.9,14,2020-12-13,Arizona Cardinals
+398,Kirk Cousins,Minnesota Vikings,37,24,225,1,0,90.5,14,2020-12-13,Tampa Bay Buccaneers
+399,Tom Brady,Tampa Bay Buccaneers,23,15,196,2,0,120.9,14,2020-12-13,Minnesota Vikings
+400,Philip Rivers,Indianapolis Colts,28,19,244,2,0,118.8,14,2020-12-13,Las Vegas Raiders
+401,Derek Carr,Las Vegas Raiders,45,31,316,2,2,85.0,14,2020-12-13,Indianapolis Colts
+402,Sam Darnold,New York Jets,26,14,132,0,0,68.1,14,2020-12-13,Seattle Seahawks
+403,Russell Wilson,Seattle Seahawks,27,21,206,4,1,122.6,14,2020-12-13,New York Jets
+404,Aaron Rodgers,Green Bay Packers,33,26,290,3,0,133.6,14,2020-12-13,Detroit Lions
+405,Matthew Stafford,Detroit Lions,34,24,244,1,0,100.6,14,2020-12-13,Green Bay Packers
+406,Matt Ryan,Atlanta Falcons,32,21,224,1,3,57.3,14,2020-12-13,Los Angeles Chargers
+407,Justin Herbert,Los Angeles Chargers,44,36,243,2,1,95.4,14,2020-12-13,Atlanta Falcons
+408,Taysom Hill,New Orleans Saints,38,28,291,2,1,102.0,14,2020-12-13,Philadelphia Eagles
+409,Jalen Hurts,Philadelphia Eagles,30,17,167,1,0,83.6,14,2020-12-13,New Orleans Saints
+410,Alex Smith,Washington Football Team,19,8,57,0,1,27.7,14,2020-12-13,San Francisco 49ers
+411,Nick Mullens,San Francisco 49ers,45,25,260,1,1,70.6,14,2020-12-13,Washington Football Team
+412,Ben Roethlisberger,Pittsburgh Steelers,37,21,187,2,2,65.9,14,2020-12-13,Buffalo Bills
+413,Josh Allen,Buffalo Bills,43,24,238,2,1,77.5,14,2020-12-13,Pittsburgh Steelers
+414,Lamar Jackson,Baltimore Ravens,17,11,163,1,0,115.6,14,2020-12-14,Cleveland Browns
+415,Baker Mayfield,Cleveland Browns,47,28,343,2,1,87.5,14,2020-12-14,Baltimore Ravens
+416,Justin Herbert,Los Angeles Chargers,32,22,314,2,0,121.1,15,2020-12-17,Las Vegas Raiders
+417,Marcus Mariota,Las Vegas Raiders,28,17,226,1,1,83.3,15,2020-12-17,Los Angeles Chargers
+418,Josh Allen,Buffalo Bills,40,28,359,2,0,114.5,15,2020-12-21,Denver Broncos
+419,Drew Lock,Denver Broncos,32,20,132,1,0,81.8,15,2020-12-21,Buffalo Bills
+420,Teddy Bridgewater,Carolina Panthers,35,21,258,0,0,82.8,15,2020-12-20,Green Bay Packers
+421,Aaron Rodgers,Green Bay Packers,29,20,143,1,0,91.6,15,2020-12-20,Carolina Panthers
+422,Tom Brady,Tampa Bay Buccaneers,45,31,390,2,0,110.4,15,2020-12-20,Atlanta Falcons
+423,Matt Ryan,Atlanta Falcons,49,34,356,3,0,110.6,15,2020-12-20,Tampa Bay Buccaneers
+424,Gardner Minshew,Jacksonville Jaguars,29,22,226,2,0,120.8,15,2020-12-20,Baltimore Ravens
+425,Lamar Jackson,Baltimore Ravens,22,17,243,3,1,133.1,15,2020-12-20,Jacksonville Jaguars
+426,Deshaun Watson,Houston Texans,41,33,373,2,0,120.8,15,2020-12-20,Indianapolis Colts
+427,Philip Rivers,Indianapolis Colts,28,22,228,2,0,124.4,15,2020-12-20,Houston Texans
+428,Cam Newton,New England Patriots,27,17,209,0,0,86.8,15,2020-12-20,Miami Dolphins
+429,Tua Tagovailoa,Miami Dolphins,26,20,145,0,1,73.4,15,2020-12-20,New England Patriots
+430,Mitchell Trubisky,Chicago Bears,21,15,202,1,1,97.7,15,2020-12-20,Minnesota Vikings
+431,Kirk Cousins,Minnesota Vikings,35,24,271,2,1,98.6,15,2020-12-20,Chicago Bears
+432,Matthew Stafford,Detroit Lions,32,22,252,1,0,102.6,15,2020-12-20,Tennessee Titans
+433,Ryan Tannehill,Tennessee Titans,27,21,273,3,0,145.8,15,2020-12-20,Detroit Lions
+434,Russell Wilson,Seattle Seahawks,27,18,121,1,1,73.2,15,2020-12-20,Washington Football Team
+435,Dwayne Haskins,Washington Football Team,55,38,295,1,2,72.9,15,2020-12-20,Seattle Seahawks
+436,Nick Mullens,San Francisco 49ers,36,21,219,2,2,71.4,15,2020-12-20,Dallas Cowboys
+437,Andy Dalton,Dallas Cowboys,33,19,209,2,0,96.7,15,2020-12-20,San Francisco 49ers
+438,Jalen Hurts,Philadelphia Eagles,44,24,338,3,0,102.3,15,2020-12-20,Arizona Cardinals
+439,Kyler Murray,Arizona Cardinals,36,27,406,3,1,127.8,15,2020-12-20,Philadelphia Eagles
+440,Sam Darnold,New York Jets,31,22,207,1,0,99.8,15,2020-12-21,Los Angeles Rams
+441,Jared Goff,Los Angeles Rams,34,22,209,2,1,89.0,15,2020-12-21,New York Jets
+442,Patrick Mahomes,Kansas City Chiefs,47,26,254,3,0,92.0,15,2020-12-20,New Orleans Saints
+443,Drew Brees,New Orleans Saints,34,15,234,3,1,84.7,15,2020-12-20,Kansas City Chiefs
+444,Baker Mayfield,Cleveland Browns,32,27,297,2,0,126.2,15,2020-12-20,New York Giants
+445,Colt McCoy,New York Giants,31,19,221,0,0,82.9,15,2020-12-20,Cleveland Browns
+446,Ben Roethlisberger,Pittsburgh Steelers,38,20,170,1,1,62.4,15,2020-12-21,Cincinnati Bengals
+447,Ryan Finley,Cincinnati Bengals,13,7,89,1,0,101.1,15,2020-12-21,Pittsburgh Steelers
+448,Kirk Cousins,Minnesota Vikings,41,27,291,3,0,110.9,16,2020-12-25,New Orleans Saints
+449,Drew Brees,New Orleans Saints,26,19,311,0,2,80.8,16,2020-12-25,Minnesota Vikings
+450,Tom Brady,Tampa Bay Buccaneers,27,22,348,4,0,158.3,16,2020-12-27,Detroit Lions
+451,Chase Daniel,Detroit Lions,18,13,86,0,0,82.2,16,2020-12-27,Tampa Bay Buccaneers
+452,C.J. Beathard,San Francisco 49ers,22,13,182,3,0,125.4,16,2020-12-28,Arizona Cardinals
+453,Kyler Murray,Arizona Cardinals,50,31,247,0,1,66.0,16,2020-12-28,San Francisco 49ers
+454,Tua Tagovailoa,Miami Dolphins,22,17,94,1,0,99.4,16,2020-12-28,Las Vegas Raiders
+455,Derek Carr,Las Vegas Raiders,34,21,336,1,0,104.5,16,2020-12-28,Miami Dolphins
+456,Daniel Jones,New York Giants,41,24,252,1,0,84.6,16,2020-12-27,Baltimore Ravens
+457,Lamar Jackson,Baltimore Ravens,26,17,183,2,0,111.5,16,2020-12-27,New York Giants
+458,Brandon Allen,Cincinnati Bengals,37,29,371,2,0,126.5,16,2020-12-27,Houston Texans
+459,Deshaun Watson,Houston Texans,33,24,324,3,0,133.9,16,2020-12-27,Cincinnati Bengals
+460,Mitchell Trubisky,Chicago Bears,35,24,265,2,1,97.9,16,2020-12-27,Jacksonville Jaguars
+461,Mike Glennon,Jacksonville Jaguars,37,24,211,2,2,75.4,16,2020-12-27,Chicago Bears
+462,Matt Ryan,Atlanta Falcons,35,27,300,2,0,121.1,16,2020-12-27,Kansas City Chiefs
+463,Patrick Mahomes,Kansas City Chiefs,44,24,278,2,1,79.5,16,2020-12-27,Atlanta Falcons
+464,Baker Mayfield,Cleveland Browns,53,28,285,0,0,68.5,16,2020-12-27,New York Jets
+465,Sam Darnold,New York Jets,32,16,175,2,0,87.4,16,2020-12-27,Cleveland Browns
+466,Philip Rivers,Indianapolis Colts,34,21,270,1,1,84.2,16,2020-12-27,Pittsburgh Steelers
+467,Ben Roethlisberger,Pittsburgh Steelers,49,34,341,3,0,109.3,16,2020-12-27,Indianapolis Colts
+468,Teddy Bridgewater,Carolina Panthers,28,19,197,1,1,85.0,16,2020-12-27,Washington Football Team
+469,Dwayne Haskins,Washington Football Team,28,14,154,0,2,36.9,16,2020-12-27,Carolina Panthers
+470,Drew Lock,Denver Broncos,47,24,264,0,2,50.3,16,2020-12-28,Los Angeles Chargers
+471,Justin Herbert,Los Angeles Chargers,33,21,253,1,0,97.2,16,2020-12-28,Denver Broncos
+472,Jared Goff,Los Angeles Rams,43,24,234,0,1,61.6,16,2020-12-27,Seattle Seahawks
+473,Russell Wilson,Seattle Seahawks,32,20,225,1,0,93.9,16,2020-12-27,Los Angeles Rams
+474,Jalen Hurts,Philadelphia Eagles,39,21,342,1,2,70.7,16,2020-12-27,Dallas Cowboys
+475,Andy Dalton,Dallas Cowboys,30,22,377,3,1,134.7,16,2020-12-27,Philadelphia Eagles
+476,Ryan Tannehill,Tennessee Titans,24,11,121,1,2,40.5,16,2020-12-27,Green Bay Packers
+477,Aaron Rodgers,Green Bay Packers,25,21,231,4,1,128.1,16,2020-12-27,Tennessee Titans
+478,Josh Allen,Buffalo Bills,36,27,320,4,0,138.7,16,2020-12-28,New England Patriots
+479,Jarrett Stidham,New England Patriots,11,4,44,0,0,49.1,16,2020-12-28,Buffalo Bills
+480,Tua Tagovailoa,Miami Dolphins,58,35,361,1,3,62.5,17,2021-01-03,Buffalo Bills
+481,Josh Allen,Buffalo Bills,25,18,224,3,1,122.3,17,2021-01-03,Miami Dolphins
+482,Lamar Jackson,Baltimore Ravens,18,10,113,3,1,91.0,17,2021-01-03,Cincinnati Bengals
+483,Brandon Allen,Cincinnati Bengals,21,6,48,0,2,0.0,17,2021-01-03,Baltimore Ravens
+484,Mason Rudolph,Pittsburgh Steelers,39,22,315,2,1,89.2,17,2021-01-03,Cleveland Browns
+485,Baker Mayfield,Cleveland Browns,27,17,196,1,0,97.1,17,2021-01-03,Pittsburgh Steelers
+486,Kirk Cousins,Minnesota Vikings,40,28,405,3,0,127.6,17,2021-01-03,Detroit Lions
+487,Matthew Stafford,Detroit Lions,31,20,293,3,1,114.0,17,2021-01-03,Minnesota Vikings
+488,Sam Darnold,New York Jets,34,23,266,1,2,76.3,17,2021-01-03,New England Patriots
+489,Cam Newton,New England Patriots,30,21,242,3,0,127.4,17,2021-01-03,New York Jets
+490,Andy Dalton,Dallas Cowboys,47,29,244,0,1,66.3,17,2021-01-03,New York Giants
+491,Daniel Jones,New York Giants,25,17,229,2,1,106.9,17,2021-01-03,Dallas Cowboys
+492,Matt Ryan,Atlanta Falcons,44,29,265,2,0,97.3,17,2021-01-03,Tampa Bay Buccaneers
+493,Tom Brady,Tampa Bay Buccaneers,41,26,399,4,1,117.8,17,2021-01-03,Atlanta Falcons
+494,Drew Brees,New Orleans Saints,32,22,201,3,0,116.8,17,2021-01-03,Carolina Panthers
+495,Teddy Bridgewater,Carolina Panthers,23,13,176,0,2,44.8,17,2021-01-03,New Orleans Saints
+496,Aaron Rodgers,Green Bay Packers,24,19,240,4,0,147.9,17,2021-01-03,Chicago Bears
+497,Mitchell Trubisky,Chicago Bears,42,33,252,0,1,81.7,17,2021-01-03,Green Bay Packers
+498,Ryan Tannehill,Tennessee Titans,27,18,216,1,0,103.3,17,2021-01-03,Houston Texans
+499,Deshaun Watson,Houston Texans,39,28,365,3,1,115.9,17,2021-01-03,Tennessee Titans
+500,Mike Glennon,Jacksonville Jaguars,42,26,261,2,0,95.4,17,2021-01-03,Indianapolis Colts
+501,Philip Rivers,Indianapolis Colts,27,17,164,1,1,76.8,17,2021-01-03,Jacksonville Jaguars
+502,Justin Herbert,Los Angeles Chargers,31,22,302,3,0,134.1,17,2021-01-03,Kansas City Chiefs
+503,Chad Henne,Kansas City Chiefs,32,23,218,2,0,111.2,17,2021-01-03,Los Angeles Chargers
+504,Derek Carr,Las Vegas Raiders,38,24,371,2,2,91.0,17,2021-01-03,Denver Broncos
+505,Drew Lock,Denver Broncos,41,25,339,2,0,103.6,17,2021-01-03,Las Vegas Raiders
+506,Chris Streveler,Arizona Cardinals,16,11,105,1,1,81.5,17,2021-01-03,Los Angeles Rams
+507,John Wolford,Los Angeles Rams,38,22,231,0,1,64.7,17,2021-01-03,Arizona Cardinals
+508,Russell Wilson,Seattle Seahawks,36,20,181,2,0,87.8,17,2021-01-03,San Francisco 49ers
+509,C.J. Beathard,San Francisco 49ers,37,25,273,1,0,98.1,17,2021-01-03,Seattle Seahawks
+510,Alex Smith,Washington Football Team,32,22,162,2,2,75.3,17,2021-01-03,Philadelphia Eagles
+511,Jalen Hurts,Philadelphia Eagles,20,7,72,0,1,25.4,17,2021-01-03,Washington Football Team
+512,Philip Rivers,Indianapolis Colts,46,27,309,2,0,93.5,18,2021-01-09,Buffalo Bills
+513,Josh Allen,Buffalo Bills,35,26,324,2,0,121.6,18,2021-01-09,Indianapolis Colts
+514,Jared Goff,Los Angeles Rams,19,9,155,1,0,93.1,18,2021-01-09,Seattle Seahawks
+515,Russell Wilson,Seattle Seahawks,27,11,174,2,1,72.1,18,2021-01-09,Los Angeles Rams
+516,Tom Brady,Tampa Bay Buccaneers,40,22,381,2,0,104.3,18,2021-01-09,Washington Football Team
+517,Taylor Heinicke,Washington Football Team,44,26,306,1,1,78.4,18,2021-01-09,Tampa Bay Buccaneers
+518,Lamar Jackson,Baltimore Ravens,24,17,179,0,1,74.8,18,2021-01-10,Tennessee Titans
+519,Ryan Tannehill,Tennessee Titans,26,18,165,1,1,83.0,18,2021-01-10,Baltimore Ravens
+520,Mitchell Trubisky,Chicago Bears,29,19,199,1,0,96.8,18,2021-01-10,New Orleans Saints
+521,Drew Brees,New Orleans Saints,39,28,265,2,0,107.3,18,2021-01-10,Chicago Bears
+522,Baker Mayfield,Cleveland Browns,34,21,263,3,0,115.2,18,2021-01-10,Pittsburgh Steelers
+523,Ben Roethlisberger,Pittsburgh Steelers,68,47,501,4,4,85.5,18,2021-01-10,Cleveland Browns
